@@ -21,7 +21,7 @@ void calculateGrade(){
 int total=0;
 int avg;
 for(int i=0;i<marks.length;i++){
-total=marks[i]+toatal;
+total=marks[i]+total;
 }
 avg=total/marks.length;
 if(avg>90)
