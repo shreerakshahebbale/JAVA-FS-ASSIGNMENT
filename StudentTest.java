@@ -57,7 +57,7 @@ std[i].read();
 for(int i=0;i<n;i++){
 std[i].calculateGrade();
 }
-for(int i=0;i<n;i++{
+for(int i=0;i<n;i++){
 std[i].display();
 }
 }
