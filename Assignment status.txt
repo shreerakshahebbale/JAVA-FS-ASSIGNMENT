@@ -1,6 +1,6 @@
-day 1=done
-day 2=done
-day 3=done
-day 4=done
-day 5=1 completed
-bank assignment is pending
+day 1 assignment 11-01-21=completed
+day 2 12-01-21=completed
+day 3 13-01-21=completed
+day 4 15-01-21=completed
+day 5 18-01-21= student assignment completed
+                bank assignment is pending(last date 20-01-21)
