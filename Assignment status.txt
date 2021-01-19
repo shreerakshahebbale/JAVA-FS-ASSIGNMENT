@@ -1,6 +1,6 @@
-day 1 assignment 11-01-21=completed
-day 2 12-01-21=completed
-day 3 13-01-21=completed
-day 4 15-01-21=completed
-day 5 18-01-21= student assignment completed
+day 1 sqlassignment 11-01-21=completed
+day 2  sqlassignment 12-01-21=completed
+day 3 java assignment 13-01-21=completed
+day 4  java assignment 15-01-21=completed
+day 5  javaa ssignment18-01-21= student assignment completed
                 bank assignment is pending(last date 20-01-21)
