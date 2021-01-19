@@ -1,6 +1,24 @@
-day 1 sqlassignment 11-01-21	= All queries completed
-day 2  sqlassignment 12-01-21	=All queries completed
-day 3 java assignment 13-01-21	= all 3 programs completed
-day 4  java assignment 15-01-21	=completed
-day 5  javaa ssignment18-01-21	= student assignment completed
-               			 bank assignment is pending(last date 20-01-21)
+Name:SHREERAKSHA
+Staffid:93259
+SQL
+day 1 :11-01-21
+sqlassignment: select clause,function,join,aggregate function
+= All queries completed
+
+day 2 :12-01-21	 
+sqlassignment :DML,DDL,Subquery
+=All queries completed
+
+JAVA
+
+day 3 :13-01-21	 
+ assignment 1:Examination  = completed
+ assignment 2:Employee     = completed
+ assignment 3:EmployeeClass= completed
+
+day 4 :15-01-21	 
+ assignment 4:Project      =completed
+
+day 5 :18-01-21	
+assignment  5:StudentTest  = completed
+assignment  6:bank         = pending(last date 20-01-21)
