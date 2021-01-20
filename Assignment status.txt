@@ -22,3 +22,6 @@ day 4 :15-01-21
 day 5 :18-01-21	
 assignment  5:StudentTest  = completed
 assignment  6:bank         = pending(last date 20-01-21)
+
+day 6:19-01-21
+assignment 7:StringSort    =completed 
