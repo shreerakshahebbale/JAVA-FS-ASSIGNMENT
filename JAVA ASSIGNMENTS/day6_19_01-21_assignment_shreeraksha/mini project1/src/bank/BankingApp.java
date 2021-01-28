@@ -18,21 +18,21 @@ public class BankingApp
 		do
 		{
 			System.out.println("Choose Your Appropiate Choice");
-			System.out.println("a. Create Account");
+			System.out.println("1. Create Account");
 			System.out.println("  1.Default Details");
 			System.out.println("  2.Name and Amount to Deposit");
-			System.out.println("b.Check Account Balance");
-			System.out.println("c.Deposit the Amount");
-			System.out.println("d.Withdraw the Amount");
-			System.out.println("e.Transfer the Amount");
-			System.out.println("f.Exit");
-			System.out.println("Please Choose the appropriate Banking option");
+			System.out.println("2.Check Account Balance");
+			System.out.println("3.Deposit the Amount");
+			System.out.println("4.Withdraw the Amount");
+			System.out.println("5.Transfer the Amount");
+			System.out.println("6.Exit");
+			System.out.println("Enter your option");
 
-			ch = obj.next();
+			ch = obj.nextInt();
 
 			switch(ch)
 			{
-				case "a":
+				case 1:
 					
 							System.out.println("Enter your choice");
 							System.out.println("  1.Display Default Details");
@@ -59,15 +59,15 @@ public class BankingApp
 										break;
 						}
 						
-							
-				case "b":
+					
+				case 2:
 							System.out.println(" Enter Your Account Number");
 							accNo = obj.nextInt();
 							Bnk.checkBal(accNo);
 							break;
 							
 							
-				case "c":
+				case 3:
 							System.out.println(" Enter Your Account Number");
 							accNo = obj.nextInt();
 							
@@ -78,7 +78,7 @@ public class BankingApp
 							break;
 					
 							
-				case "d":
+				case 4:
 							System.out.println(" Enter Your Account Number");
 							accNo = obj.nextInt();
 							
@@ -89,7 +89,7 @@ public class BankingApp
 							break;
 				
 							
-				case "e":
+				case 5:
 							System.out.println(" Enter Your Account Number");
 							accNo = obj.nextInt();
 							
@@ -103,7 +103,7 @@ public class BankingApp
 							break;
 							
 							
-				case "f":
+				case 6:
 							System.out.println("Thanks!!! For Choosing Standard Chartered Bank");
 							flag=false;
 							break;
